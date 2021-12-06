@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Niraj
-![Profile views](https://gpvc.arturio.dev/Niraj-kumbhar)  
+![Profile views](https://gpvc.arturio.dev/Niraj-kumbhar)  [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
