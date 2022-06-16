@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kumbharniraj1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/niraj-kumbhar/](https://www.linkedin.com/in/niraj-kumbhar/)
+- 📄 Know about my experiences [linkedin.com/in/niraj-kumbhar/](https://www.linkedin.com/in/niraj-kumbhar/)
 
 - ⚡ Fun fact **I am a good photographer**
 
