@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Niraj 👨‍💻</h1>
-<h3 align="center">A Data Science enthusiast from India</h3>
+<h3 align="center">A Data Scientist from India</h3>
 
 <img align="right" alt="coding" width = "400" src="https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
