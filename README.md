@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Niraj 👨‍💻</h1>
 <h3 align="center">A Data Scientist from India</h3>
 
-<img align="right" alt="coding" width = "400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="coding" width = "400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
 
 - 🌱 I’m currently learning **Deep learning**
